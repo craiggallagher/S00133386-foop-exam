@@ -1,0 +1,33 @@
+﻿<Window x:Class="S00133386_foop_exam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="418" Width="545">
+    <StackPanel Background="BlanchedAlmond">
+        <StackPanel Orientation="Horizontal" Background="AliceBlue">
+            <ListBox Background="Beige" Name="lbxMusic" Height="250" Width="350" Margin="10" BorderBrush="Black" BorderThickness="2"></ListBox>
+            <StackPanel Orientation="Vertical">
+                <Button Name="btnLoad" Content="Load" Width="50" Height="30" Margin="0,20,0,50" Click="btnLoad_Click"></Button>
+                <Button x:Name="btnSave" Content="Save" Height="30" Width="50" Margin="0,0,0,50" Click="btnSave_Click"/>
+           
+            <Button Name="btnRemove" Content="Remove" Height="30" Width="50" Margin="0,0,0,10" Click="btnRemove_Click"></Button>
+                <TextBlock Name="tbktotal" FontSize="16">Value:</TextBlock>
+                <Button Name="btnAdd" Content="Add" Margin="0,50,0,0" Click="btnAdd_Click"></Button>
+            </StackPanel>
+           
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Background="BlanchedAlmond">
+        <ListBox Name="lbkRnd" Height="30"></ListBox>
+        <TextBlock Margin="0,0,100,0">Album</TextBlock>
+        <TextBlock Margin="0,0,100,0">Artists</TextBlock>
+            <TextBlock>Cost</TextBlock>
+        </StackPanel>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" Background="BlanchedAlmond" >
+                <ListBox Name="tbxAlbum" BorderBrush="Black"  BorderThickness="2" Width="60" Margin="0,0,0,0">Album</ListBox>
+                <TextBox Name="tbxArtists" BorderBrush="Black"  BorderThickness="2" Width="60" Margin="70,0,0,0">Artists</TextBox>
+                <TextBox Name="tbxCost" BorderBrush="Black"  BorderThickness="2" Width="60" Margin="76,0,0,0">Cost</TextBox>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

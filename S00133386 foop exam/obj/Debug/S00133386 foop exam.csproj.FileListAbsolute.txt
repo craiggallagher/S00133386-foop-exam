@@ -1,0 +1,13 @@
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\bin\Debug\S00133386 foop exam.exe.config
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\S00133386 foop exam.csprojResolveAssemblyReference.cache
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\MainWindow.baml
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\MainWindow.g.cs
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\App.g.cs
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\S00133386 foop exam_MarkupCompile.cache
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\S00133386 foop exam.g.resources
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\S00133386_foop_exam.Properties.Resources.resources
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\S00133386 foop exam.csproj.GenerateResource.Cache
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\bin\Debug\S00133386 foop exam.exe
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\bin\Debug\S00133386 foop exam.pdb
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\S00133386 foop exam.exe
+F:\year2 coding\S00133386 foop exam\S00133386 foop exam\obj\Debug\S00133386 foop exam.pdb
